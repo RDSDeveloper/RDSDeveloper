@@ -117,6 +117,9 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 <a href="https://github.com/RDSDeveloper">
   <img align="left" alt="Rodrigo's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.behance.net/rodrigosantos205">
+  <img align="left" alt="Rodrigo's Behance" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg"  width="40" height="40" />
+</a>
 
 <br/>
 <br/>
